@@ -56,7 +56,7 @@ export const ProjectList = [
         image: PortfolioLogo,
         skills: "React.js, HTML, CSS, JavaScript",
         codeLink: "https://github.com/Abdalloafifi",
-        demoLink: "",
+        demoLink: "https://bookstors.vercel.app/",
         info: "Developed a front-end e-book trading platform using React.js. Implemented user-friendly interface for browsing, purchasing, and managing e-books.",
     },
     {
@@ -68,14 +68,18 @@ export const ProjectList = [
         demoLink: "",
         info: "Developed a full-featured e-commerce platform with an admin panel. Implemented product management, payment processing, and dynamic product display.",
     },
+    {
+        key: 7,
+        name: "Sil-Health - Smart Medical Assistant",
+        image: PortfolioLogo,
+        skills: "React 18.2, Vite 4.4, TailwindCSS 3.3, Redux Toolkit 2.0, Three.js, Gemini API",
+        codeLink: "https://github.com/abdallahafifi667-dev/Sil-Health",
+        demoLink: "https://sil-health.vercel.app/",
+        info: "An intelligent medical assistant powered by Google Gemini to provide intelligent medical consultations, image analysis, and personalized health guidance. Built with modern web technologies, it offers a seamless, responsive, and intuitive user experience.",
+    },
 ]
 
 
 export const clientProject = [
-    // Add client projects here as they become available
-    // {
-    //     name: "Client Project Name",
-    //     image: ProjectLogo,
-    //     clientDemoLink: "https://example.com",
-    // },
+
 ]
