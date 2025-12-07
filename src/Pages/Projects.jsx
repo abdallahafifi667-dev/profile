@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import { animated, useTransition } from 'react-spring';
 
 const Projects = () => {
-  const Labels = ['All','Personal'];
+  const Labels = ['All'];
   const [projects, setProjects] = useState([...clientProject, ...ProjectList]);
   const [activeLabel, setActiveLabel] = useState(Labels[0]);
 
