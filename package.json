@@ -1,6 +1,8 @@
 {
-  "name": "personal-portfolio",
-  "version": "0.1.0",
+  "name": "abdallah-afifi-portfolio",
+  "version": "1.0.0",
+  "description": "Abdallah Afifi - Full Stack Developer Portfolio",
+  "author": "Abdallah Afifi",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
