@@ -64,7 +64,7 @@ const HomePage = ({ Lottie }) => {
 
           <div className="btn">
             <a
-              href="https://drive.google.com/file/d/1QOyzkyrQu46gplklmErgYX5xu0eNqY5O/view?usp=sharing"
+              href="https://drive.google.com/file/d/10UKmFtRL7s3TbxJ4j5jnwG-cUTB7dgMY/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
             >
